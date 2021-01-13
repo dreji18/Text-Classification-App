@@ -4,6 +4,6 @@ This App is a full fledge tool box for any user to train, test and predict a cla
 The tool is currently deployed using Streamlit and hosted using Streamlit sharing https://share.streamlit.io/dreji18/text-classification-app/main/app.py
 
 
-![Deer](https://cabinradio.ca/wp-content/uploads/2018/07/A-territorial-government-issued-photograph-of-barren-ground-caribou.jpg)
+![Deer](https://www.nwtspeciesatrisk.ca/sites/enr-species-at-risk/files/bgc_bluenose_east_01_0.jpg)
 
 Image Credits: Google
