@@ -6,3 +6,4 @@ xlsxwriter
 preprocessor
 textblob
 nltk
+tweet-preprocessor
